@@ -51,6 +51,11 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
+    # Visualizações
+    NPS interno mensal médio por setor
+    NPS interno mensal médio por contratação (clt/pj)
+    Distribuião do NPS 
+
 
 --------
 
